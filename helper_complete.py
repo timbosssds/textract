@@ -1,5 +1,13 @@
-# succesfully extracted the df i wanted to csv
+# helper - 1st file
+"""
 
+1. Read JSON
+2. Pre-processing
+3. Process JSON to create dataframes
+4. Remove unwanted data
+5. Process for output
+
+"""
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
